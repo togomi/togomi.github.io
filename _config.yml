@@ -1,7 +1,8 @@
-# Name of website
 title: YoungJin Lee
-
-# Short description of your site
 description: Personal Website
 
+social-network-links:
+  email: "leeyou18@gmail.com"
+  github: togomi
+  
 theme: jekyll-theme-minimal
