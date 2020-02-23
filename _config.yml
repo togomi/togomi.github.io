@@ -1,20 +1,7 @@
 title: YoungJin Lee
 description: Personal Website
-
-author:
-  name: YoungJin Lee
-  
-social-network-links:
-  email: "leeyou18@gmail.com"
-  github: togomi
-  linkedin: youngjin-lee-6b1b0430
  
-share-links-active:
-  email: true
-  github: true
-  linkedin: true
- 
-theme: jekyll-theme-minimal
+theme: minima
 
 navbar-col: "#F5F5F5"
 navbar-text-col: "#404040"
