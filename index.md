@@ -6,7 +6,7 @@ layout: default
 I am a software engineer working at AMD in Markham, Canada as part of the Software Security Engineering group. I am responsible for supporting AMD APUs, enabling customers to build competitive solutions.
 
 Contact: leeyou18@gmail.com<br/>
-[LinkedIn profile](https://www.linkedin.com/in/youngjin-lee-6b1b0430)<br/
+[LinkedIn profile](https://www.linkedin.com/in/youngjin-lee-6b1b0430)<br/>
 [Github profile](https://github.com/togomi)
 
 &nbsp;
